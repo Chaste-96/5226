@@ -47,12 +47,11 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Environment
-.env
+# Virtual Environment - but NOT our project env directory
+
 .venv
-env/
-venv/
-ENV/
+/venv/
+/ENV/
 env.bak/
 venv.bak/
 
